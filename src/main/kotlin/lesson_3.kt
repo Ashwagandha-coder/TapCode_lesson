@@ -1,5 +1,4 @@
 import java.io.PrintStream
-import java.io.UTFDataFormatException
 import java.nio.charset.StandardCharsets
 
 fun main() {
