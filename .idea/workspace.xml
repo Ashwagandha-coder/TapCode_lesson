@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2aad335-7468-4f34-9bad-e89cdd85b5b3" name="Changes" comment="lesson_6.kt and lesson_7.kt done">
+    <list default="true" id="e2aad335-7468-4f34-9bad-e89cdd85b5b3" name="Changes" comment="lesson_8.kt done">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_9_2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lesson_8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lesson_9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_9.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -64,21 +66,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Lesson_8Kt">
-    <configuration name="Lesson_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3Kt" />
-      <module name="TapCode_lesson" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_4Kt" />
-      <module name="TapCode_lesson" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Lesson_9_2Kt">
     <configuration name="Lesson_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_5Kt" />
       <module name="TapCode_lesson" />
@@ -100,13 +88,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson_9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_9Kt" />
+      <module name="TapCode_lesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson_9_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_9_2Kt" />
+      <module name="TapCode_lesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Lesson_9_2Kt" />
+        <item itemvalue="Kotlin.Lesson_9Kt" />
         <item itemvalue="Kotlin.Lesson_8Kt" />
         <item itemvalue="Kotlin.Lesson_6Kt" />
         <item itemvalue="Kotlin.Lesson_5Kt" />
-        <item itemvalue="Kotlin.Lesson_4Kt" />
-        <item itemvalue="Kotlin.Lesson_3Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659958683754</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="lesson_8.kt done">
+      <created>1659959530570</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659959530570</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +232,7 @@
     <MESSAGE value="lesson_4.kt done" />
     <MESSAGE value="lesson_5.kt done" />
     <MESSAGE value="lesson_6.kt and lesson_7.kt done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_6.kt and lesson_7.kt done" />
+    <MESSAGE value="lesson_8.kt done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_8.kt done" />
   </component>
 </project>
