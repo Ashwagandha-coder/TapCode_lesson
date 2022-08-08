@@ -21,7 +21,7 @@ fun main() {
 
     var abc: String? = null
 
-    val lenght = abc!!.length
+    val lenght = abc?.length ?: -1
 
     println(lenght)
 
