@@ -17,9 +17,6 @@ fun main() {
     printTable(namesArray,salaryArray)
 
 
-
-
-
 }
 
 fun validationNames(names: List<String>, maxSize: Int) {
