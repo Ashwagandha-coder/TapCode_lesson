@@ -2,6 +2,8 @@ import java.util.ArrayList;
 
 public class Test {
 
+    private String abc = "fbfb";
+
     public static void main(String[] args) {
 
         ArrayList<Integer> arrayList = new ArrayList<>();
@@ -19,3 +21,4 @@ public class Test {
     }
 
 }
+
