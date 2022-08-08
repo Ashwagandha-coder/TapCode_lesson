@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2aad335-7468-4f34-9bad-e89cdd85b5b3" name="Changes" comment="lesson_8.kt done">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_9_2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lesson_9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_9.kt" afterDir="false" />
+    <list default="true" id="e2aad335-7468-4f34-9bad-e89cdd85b5b3" name="Changes" comment="1\2">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lesson_13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_13.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +64,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Lesson_9_2Kt">
-    <configuration name="Lesson_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_5Kt" />
+  <component name="RunManager" selected="Kotlin.Lesson_13Kt">
+    <configuration name="Lesson_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_12Kt" />
       <module name="TapCode_lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_6Kt" />
+    <configuration name="Lesson_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_13Kt" />
       <module name="TapCode_lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Lesson_13Kt" />
+        <item itemvalue="Kotlin.Lesson_12Kt" />
         <item itemvalue="Kotlin.Lesson_9_2Kt" />
         <item itemvalue="Kotlin.Lesson_9Kt" />
         <item itemvalue="Kotlin.Lesson_8Kt" />
-        <item itemvalue="Kotlin.Lesson_6Kt" />
-        <item itemvalue="Kotlin.Lesson_5Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +203,42 @@
       <option name="project" value="LOCAL" />
       <updated>1659959530570</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lesson_9.kt and lesson_9_2.kt done">
+      <created>1659967658669</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659967658669</updated>
+    </task>
+    <task id="LOCAL-00014" summary="refactoring">
+      <created>1659967698177</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1659967698177</updated>
+    </task>
+    <task id="LOCAL-00015" summary="lesson_10.kt done">
+      <created>1659970796599</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659970796599</updated>
+    </task>
+    <task id="LOCAL-00016" summary="lesson_11.kt done">
+      <created>1659971530729</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1659971530729</updated>
+    </task>
+    <task id="LOCAL-00017" summary="1\2">
+      <created>1659974260159</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1659974260159</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +266,11 @@
     <MESSAGE value="lesson_5.kt done" />
     <MESSAGE value="lesson_6.kt and lesson_7.kt done" />
     <MESSAGE value="lesson_8.kt done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_8.kt done" />
+    <MESSAGE value="lesson_9.kt and lesson_9_2.kt done" />
+    <MESSAGE value="refactoring" />
+    <MESSAGE value="lesson_10.kt done" />
+    <MESSAGE value="lesson_11.kt done" />
+    <MESSAGE value="1\2" />
+    <option name="LAST_COMMIT_MESSAGE" value="1\2" />
   </component>
 </project>
