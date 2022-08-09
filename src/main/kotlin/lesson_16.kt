@@ -13,6 +13,8 @@ fun main() {
     action.handlerCity(scanner)
     action.handlerCoffee(scanner)
 
+    action.checkForBiscuit()
+
 
 }
 
@@ -90,6 +92,17 @@ class Action {
         }
     }
 
+    fun checkForBiscuit() {
+
+        if (currentCoffeeShop is MoscowCoffeeShop) {
+            (currentCoffeeShop as MoscowCoffeeShop)?.sellBiscuit()
+        }
+        else {
+            exitProcess(0)
+        }
+
+    }
+
 
 }
 
@@ -112,7 +125,7 @@ abstract class CoffeeShop(
 }
 
 class MoscowCoffeeShop(americanoPrice: Double, cappuchinoPrice: Double, lattePrice: Double):
-    CoffeeShop(americanoPrice, cappuchinoPrice, lattePrice) {
+    CoffeeShop(americanoPrice, cappuchinoPrice, lattePrice), Biscuit {
 
     override fun makeAmericano() {
         countAmericano++
@@ -130,6 +143,19 @@ class MoscowCoffeeShop(americanoPrice: Double, cappuchinoPrice: Double, lattePri
         countLatte++
         println("Thank for order Latte Coffee in Moscow")
 
+    }
+
+    override fun sellBiscuit() {
+
+        println("Would you like cuckie")
+        println("1. Yes\n2. No")
+
+        val result = readln()
+
+        if (result == "1")
+            println("Take your cockie")
+        else
+            exitProcess(0)
     }
 }
 
@@ -153,4 +179,10 @@ class NewYorkCoffeeShop( americanoPrice: Double, capuchinoPrice: Double, lattePr
         println("Thank for order Latte Coffee in NewYork")
 
     }
+}
+
+interface Biscuit {
+
+    fun sellBiscuit()
+
 }
