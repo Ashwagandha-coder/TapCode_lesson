@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2aad335-7468-4f34-9bad-e89cdd85b5b3" name="Changes" comment="lesson_16.kt done">
+    <list default="true" id="e2aad335-7468-4f34-9bad-e89cdd85b5b3" name="Changes" comment="lesson_18.kt done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lesson_18.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_18.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lesson_19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_19.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660034295624</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="lesson_18.kt done">
+      <created>1660040905556</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1660040905556</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,6 +330,7 @@
     <MESSAGE value="add files" />
     <MESSAGE value="chapter 1 lesson_16.kt done" />
     <MESSAGE value="lesson_16.kt done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_16.kt done" />
+    <MESSAGE value="lesson_18.kt done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_18.kt done" />
   </component>
 </project>
